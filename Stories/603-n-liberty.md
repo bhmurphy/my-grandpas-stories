@@ -1,3 +1,9 @@
+---
+title: 603 N Liberty
+layout: default
+parent: Stories
+---
+
 # 603 N Liberty
 
 ![assets/images/before-the-horseless-carriage.png](603 North Liberty, 1890)
