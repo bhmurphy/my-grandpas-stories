@@ -38,9 +38,10 @@
 
 .tab > li {
     list-style: none;
-    &::before {
-        content: none;
-    }
+}
+
+.tab > li::before {
+    content: none
 }
 
 .tab-content {
