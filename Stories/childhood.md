@@ -4,7 +4,11 @@ layout: default
 parent: Stories
 ---
 
-# Childhood (v1. July 23, 2003)
+# Childhood
+
+{% tabs childhood %}
+
+{% tabs childhood v1. July 23, 2003%}
 
 ## Jim & Kathy Murphy
 
@@ -125,7 +129,9 @@ married there.
 
 This brings us up to the present time.
 
-# Childhood (v2. November 6, 2020)
+{% endtab %}
+
+{% tabs childhood v2. November 6, 2020 %}
 
 ## Jim & Kathy Murphy
 
@@ -256,3 +262,7 @@ active members. All our children were baptized there, and Sean and his wife Jenn
 married there.
 
 This brings us up to the present time.
+
+{% endtab %}
+
+<script src="../assets/js/tabs.js"></script>
