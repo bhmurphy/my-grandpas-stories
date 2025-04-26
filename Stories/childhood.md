@@ -8,7 +8,7 @@ parent: Stories
 
 {% tabs childhood %}
 
-{% tabs childhood v1. July 23, 2003%}
+{% tab childhood v1. July 23, 2003%}
 
 ## Jim & Kathy Murphy
 
@@ -131,7 +131,7 @@ This brings us up to the present time.
 
 {% endtab %}
 
-{% tabs childhood v2. November 6, 2020 %}
+{% tab childhood v2. November 6, 2020 %}
 
 ## Jim & Kathy Murphy
 
