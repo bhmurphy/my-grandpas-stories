@@ -26,4 +26,4 @@ In this early photo of my two brothers and our dog Brownie, you can see the Wall
 
 ![Jim with a fish](/assets/images/603-n-liberty/fish.jpg)
 
-{% include image.html url="/assets/images/vern-brothers-1952.jpg" description="Looks like I was a Cardinals fan" %}
+{% include image.html url="/assets/images/603-n-liberty/cardinals-fan.jpg" description="Looks like I was a Cardinals fan" %}
