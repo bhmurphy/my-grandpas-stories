@@ -36,6 +36,13 @@
     cursor: pointer;
 }
 
+.tab > li {
+    list-style: none;
+    &::before {
+        content: none;
+    }
+}
+
 .tab-content {
     padding: 0;
 }
