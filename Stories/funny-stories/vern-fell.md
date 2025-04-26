@@ -1,5 +1,5 @@
 ---
-title: The new power lawn mower
+title: Vern fell on front steps and split his upper lip
 parent: Growing up in Webb City Funny Stories and not so funny
 layout: default
 nav_order: 35

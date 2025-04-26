@@ -1,5 +1,5 @@
 ---
-title: There I was holding Vern by his ankle in one hand and the grate in my other hand.
+title: There I was holding Vern by his ankle in one hand and the grate in my other hand
 parent: Growing up in Webb City Funny Stories and not so funny
 layout: default
 nav_order: 3

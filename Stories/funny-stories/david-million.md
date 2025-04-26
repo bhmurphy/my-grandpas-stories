@@ -1,5 +1,5 @@
 ---
-title: David accumulated one million dollars.
+title: David accumulated one million dollars
 parent: Growing up in Webb City Funny Stories and not so funny
 layout: default
 nav_order: 21

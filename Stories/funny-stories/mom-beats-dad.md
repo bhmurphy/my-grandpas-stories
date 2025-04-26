@@ -1,5 +1,5 @@
 ---
-title: Mom would always beat dad to the phone when he was in the house.
+title: Mom would always beat dad to the phone when he was in the house
 parent: Growing up in Webb City Funny Stories and not so funny
 layout: default
 nav_order: 8

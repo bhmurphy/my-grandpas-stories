@@ -1,5 +1,5 @@
 ---
-title: There was a coffee can on the fence post, the sign said, “50 Cents.”
+title: The big Dime Store Jewelry Caper
 parent: Growing up in Webb City Funny Stories and not so funny
 layout: default
 nav_order: 25

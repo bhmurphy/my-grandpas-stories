@@ -1,5 +1,5 @@
 ---
-title: Ted and I took a float trip down Center creek.
+title: Ted and I took a float trip down Center creek
 parent: Growing up in Webb City Funny Stories and not so funny
 layout: default
 nav_order: 32
