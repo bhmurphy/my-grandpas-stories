@@ -265,4 +265,6 @@ This brings us up to the present time.
 
 {% endtab %}
 
+{% endtabs %}
+
 <script src="../assets/js/tabs.js"></script>
