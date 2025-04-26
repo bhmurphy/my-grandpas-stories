@@ -1,0 +1,14 @@
+---
+title: Vern shoots out windshield on Dad’s 1952 Buick
+parent: Growing up in Webb City Funny Stories and not so funny
+layout: default
+nav_order: 4
+---
+
+# Vern shoots out windshield on Dad’s 1952 Buick (*in front of Dime store On Main Street Saturday Morning*)
+
+All these stories really happened but I think this is the only one that made headlines in the Joplin Globe.
+
+![S&W 38 Snub Nose Revolver](../../assets/images/funny-stories/revolver.jpg)
+
+Dad sometimes carried a gun, when he was not carrying, he would lock the gun (a S&W 38 snub nose revolver) in the glove compartment of the car. In the summertime on Friday night, we would often go out to the 66 drive in theater for a movie. While we were waiting for Mom and Dad to come out to the car, Melvin and David would take the key out of the ignition and unlock the glove box, take the gun out, spin the cylinder a few times, flip the cylinder out, look at the bullets, close the cylinder and put the gun back in the glove box, lock it, and replace the key in the ignition. Mom and dad would come out, we would go to the movie and enjoy the show, and popcorn and drinks. I can remember watching this go on several times.  Any time we were all going somewhere.  Guess who else was watching? Vern.  One Saturday morning Mom needed some thread for a dress she was sewing on her trusty Singer sewing machine.  She grabbed Vern and drove up to the Dime store located on the west side of Main Street.  Now on Saturday in Webb city main street was thriving. People would flock to town to do their shopping.  The local farmers would come to town and gather in front of the dime store and the restaurant next door on the corner.  All lined up talking, and watching the world go by.  Parking on main street was, and still is at an angle so you could pull in facing the store and do your shopping.  So, Mom pulled in and parked right in front of the dime store and went inside to get her thread, leaving Vern in the car.  This was going to be a quick purchase and Vern would not be left in the car awfully long.  Long enough though.  Vern, being well trained in the procedure, takes the gun out of the glove box to look it over and manages to blow a hole in the windshield. Which scattered the framers and passer byes diving for cover creating all kinds of excitement. Vern’s hearing was not good, and his chest was sore for a few days.  There is a bullet hole somewhere up there in the dime store front. Next time I am in town I intend to look for it and possibly get a photo of it. Mom was very embarrassed but happy no one was killed, and Dad removed the gun from the car straightaway.
