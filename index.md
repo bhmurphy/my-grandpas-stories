@@ -14,3 +14,7 @@ includes the typos, punctuation errors, and bits of placeholder text that show t
 progress.
 
 Love you.
+
+---
+
+[Main stories index](Stories)
