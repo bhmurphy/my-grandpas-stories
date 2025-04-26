@@ -40,8 +40,10 @@
     list-style: none;
 }
 
-.tab ul > li::before {
-    content: none
+.tab ul > li {
+    &::before {
+        content: none
+    }
 }
 
 .tab-content {
