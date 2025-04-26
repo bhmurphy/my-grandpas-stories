@@ -5,7 +5,7 @@ layout: default
 nav_order: 11
 ---
 
-# Chapter Eleven  Dave and I were teen aged bootleggers.
+# Chapter Eleven  *Dave and I were teen aged bootleggers.*
 
 First let me explain the difference between Bootleggers and Moonshiners. Two totally different groups of people providing one thing, Alcohol.
 

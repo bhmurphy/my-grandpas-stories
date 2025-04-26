@@ -39,7 +39,7 @@ David, Vern and I were still living at home at the time. David was working at Jo
 
 {% include image.html url="../../assets/images/dan-murphy-family/dan-and-vera-1952.jpg" description="Dan and Vera 1952" %}
 
-{% include image.html url="../assets/images/603-n-liberty/vern-brothers-1952.jpg" description="The Murphy Boys, Jim, David, Melvin, and Vern 1951" %}
+{% include image.html url="../../assets/images/603-n-liberty/vern-brothers-1952.jpg" description="The Murphy Boys, Jim, David, Melvin, and Vern 1951" %}
 
 {% include image.html url="../../assets/images/granddad-grandmother/murphy-boys.jpg" description="Melvin, David, Jim & Vern 1960" %}
 
@@ -63,16 +63,16 @@ The following summer we had a family reunion on Table Rock Lake
 
 {% include image.html url="../../assets/images/granddad-grandmother/murphy-boys.jpg" description="Melvin David Jim Vern 1960" %}
 
-{% include image.html url="../assets/images/dan-murphy-family/pony.jpg" description="Jim, David, and Melvin 603 N Liberty 1946." %}
+{% include image.html url="../../assets/images/dan-murphy-family/pony.jpg" description="Jim, David, and Melvin 603 N Liberty 1946." %}
 
 Mom said a man and his wife came through town pulling a little camper and horse trailer. They were coming up Liberty St. and parked in front of our house and ask Mom if she would like to have a photo of her children and explained the setting. Mom went for it and I’m glad she did. I was 3 years old at the time, Dave was 6, and Melvin 9. Note that this was a black and white photo which was “Colorized” with some kind of paint. A real art form of the day. All films at that time were B&W.
 
-{% include image.html url="../assets/images/dan-murphy-family/grandmother-marrison.jpg" description="Grandmother Marison Thanksgiving 1970" %}
+{% include image.html url="../../assets/images/dan-murphy-family/grandmother-marrison.jpg" description="Grandmother Marison Thanksgiving 1970" %}
 
 Thanks to one of my mother’s cousins, Lee Sommerville, daughter of Lillian, I have more information and photos from her side. 
 Great Grandmother Murphy and Grandmother Marison were both delighted when Mom married a Murphy.
 
-{% include image.html url="../assets/images/my-story/grandmother-living-room.jpg" description="Grandmother Marison in her living room, dining room in rear." %}
+{% include image.html url="../../assets/images/my-story/grandmother-living-room.jpg" description="Grandmother Marison in her living room, dining room in rear." %}
 
 {% include image.html url="../../assets/images/my-story/great-grandmother-brother.jpg" description="Great Grandfather and Great   Grandmother Murphy in 1943 They had a big family. Six girls and Four boys. He worked as a miner for years until he broke his leg and had to quit." %}
 

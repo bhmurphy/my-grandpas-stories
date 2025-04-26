@@ -5,7 +5,8 @@ layout: default
 nav_order: 7
 ---
 
-Chapter Seven The Game, Upstairs 
+# Chapter Seven *The Game, Upstairs*
+
 One venture that did happen was the “Game” over the pool hall, Webb City. I’d like to insert an article I wrote for the book “Families & History of Webb City Carterville and Oronogo” which describes the pool hall and the “Game” upstairs. The photo is Les Ulmer holding hid God Don, James Lester Murphy, age 7 months.
 
 ![Les Ulmer holding James Lester Murphy](../../assets/images/webb-city-recreation/les.jpg)
