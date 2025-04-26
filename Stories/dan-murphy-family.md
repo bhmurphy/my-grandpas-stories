@@ -18,7 +18,7 @@ Dan Murphy died June 3, 1960, and Vera Murphy died Nov. 27, 2002.
 
 David died Dec. 23, 2006, Vern died May 8, 2009, Melvin died Aug. 15, 2012
 
-{% include image.html url="../assets/images/grandad-grandmother/murphy-boys.jpg" description="Melvin, David, Jim and Vern, the murphy boys 1959. 603 N Liberty Webb City MO. Standing in front of the fireplace at the south end of the living room." %}
+{% include image.html url="../assets/images/granddad-grandmother/murphy-boys.jpg" description="Melvin, David, Jim and Vern, the murphy boys 1959. 603 N Liberty Webb City MO. Standing in front of the fireplace at the south end of the living room." %}
 
 mom had an old Brownie Hawkeye camera which she used for years. 
 
@@ -27,7 +27,6 @@ I’m adding a photo of Me and Melvin and David in our front yard next to the po
 {% include image.html url="../assets/images/dan-murphy-family/pony.jpg" description="Jim and David on the pony, Melvin standing 1947" %}
 
 {% include image.html url="../assets/images/dan-murphy-family/dan-and-vera-1952.jpg" description="Dan and Vera Murphy 1952" %}
-
 
 {% include image.html url="../assets/images/dan-murphy-family/grandmother-marrison.jpg" description="Grandmother Marison on the right side of the fireplace before it was painted white. Thanksgiving Day, 1955." %}
 
